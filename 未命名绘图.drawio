@@ -628,7 +628,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="注册/仅更新/仅绑定/绑定并更新" id="C0m6u_HXO2JURYzyNiHS">
-    <mxGraphModel dx="2593" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1014" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3bBSqwRNcASSSW01SM7P-0" />
         <mxCell id="3bBSqwRNcASSSW01SM7P-1" parent="3bBSqwRNcASSSW01SM7P-0" />
@@ -1068,32 +1068,35 @@
         <mxCell id="hEwBRLtoHhJo9HB-gJ3n-11" value="&lt;h1&gt;更新并绑定的异常&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=top;" parent="3bBSqwRNcASSSW01SM7P-40" vertex="1">
           <mxGeometry x="711" y="578" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="biYuwH2HLcxZLJn6zjDx-0" value="&lt;div&gt;58002&lt;/div&gt;&lt;div&gt;注册客户:平台账号已绑定其他客户，无法绑定当前客户&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;brandCode、brandMemberId、&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;channel、socialId、channelId、subChannel、latestActiveAt&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="3bBSqwRNcASSSW01SM7P-40">
+        <mxCell id="biYuwH2HLcxZLJn6zjDx-0" value="&lt;div&gt;58002&lt;/div&gt;&lt;div&gt;注册客户:平台账号已绑定其他客户，无法绑定当前客户&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;brandCode、brandMemberId、&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;channel、socialId、channelId、subChannel、latestActiveAt&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="3bBSqwRNcASSSW01SM7P-40" vertex="1">
           <mxGeometry x="720" y="259" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="biYuwH2HLcxZLJn6zjDx-78" value="&lt;div&gt;50004&lt;/div&gt;&lt;div&gt;注册客户:客户属性处理失败&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="3bBSqwRNcASSSW01SM7P-40">
+        <mxCell id="biYuwH2HLcxZLJn6zjDx-78" value="&lt;div&gt;50004&lt;/div&gt;&lt;div&gt;注册客户:客户属性处理失败&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="3bBSqwRNcASSSW01SM7P-40" vertex="1">
           <mxGeometry x="1130" y="259" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="biYuwH2HLcxZLJn6zjDx-79" value="&lt;div&gt;50004&lt;/div&gt;&lt;div&gt;更新客户信息:客户属性处理失败&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="3bBSqwRNcASSSW01SM7P-40">
+        <mxCell id="biYuwH2HLcxZLJn6zjDx-79" value="&lt;div&gt;50004&lt;/div&gt;&lt;div&gt;更新客户信息:客户属性处理失败&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="3bBSqwRNcASSSW01SM7P-40" vertex="1">
           <mxGeometry x="720" y="480" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="biYuwH2HLcxZLJn6zjDx-80" value="&lt;div&gt;42201&lt;/div&gt;&lt;div&gt;注册客户:请求参数校验未通过&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="3bBSqwRNcASSSW01SM7P-40">
+        <mxCell id="biYuwH2HLcxZLJn6zjDx-80" value="&lt;div&gt;42201&lt;/div&gt;&lt;div&gt;注册客户:请求参数校验未通过&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="3bBSqwRNcASSSW01SM7P-40" vertex="1">
           <mxGeometry x="720" y="330" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="biYuwH2HLcxZLJn6zjDx-81" value="&lt;div&gt;42201&lt;/div&gt;&lt;div&gt;请求参数校验未通过&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="3bBSqwRNcASSSW01SM7P-40">
+        <mxCell id="biYuwH2HLcxZLJn6zjDx-81" value="&lt;div&gt;42201&lt;/div&gt;&lt;div&gt;请求参数校验未通过&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="3bBSqwRNcASSSW01SM7P-40" vertex="1">
           <mxGeometry x="1130" y="480" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="biYuwH2HLcxZLJn6zjDx-322" value="&lt;div&gt;50004&lt;/div&gt;&lt;div&gt;更新客户信息&amp;amp;绑定客户与平台账号:客户属性处理失败&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="3bBSqwRNcASSSW01SM7P-40">
+        <mxCell id="biYuwH2HLcxZLJn6zjDx-322" value="&lt;div&gt;50004&lt;/div&gt;&lt;div&gt;更新客户信息&amp;amp;绑定客户与平台账号:客户属性处理失败&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="3bBSqwRNcASSSW01SM7P-40" vertex="1">
           <mxGeometry x="720" y="716" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="biYuwH2HLcxZLJn6zjDx-410" value="&lt;div&gt;58005&lt;/div&gt;&lt;div&gt;更新客户信息&amp;amp;&lt;span style=&quot;font-size: 9pt; background-color: initial;&quot;&gt;绑定客户与平台账号:该客户已经绑定了该渠道，无法绑定当前账号&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;brandCode、brandMemberId、&lt;br&gt;&lt;/div&gt;&lt;div&gt;channel、socialId、channelId、subChannel、latestActiveAt&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="3bBSqwRNcASSSW01SM7P-40">
+        <mxCell id="biYuwH2HLcxZLJn6zjDx-410" value="&lt;div&gt;58005&lt;/div&gt;&lt;div&gt;更新客户信息&amp;amp;&lt;span style=&quot;font-size: 9pt; background-color: initial;&quot;&gt;绑定客户与平台账号:该客户已经绑定了该渠道，无法绑定当前账号&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;brandCode、brandMemberId、&lt;br&gt;&lt;/div&gt;&lt;div&gt;channel、socialId、channelId、subChannel、latestActiveAt&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="3bBSqwRNcASSSW01SM7P-40" vertex="1">
           <mxGeometry x="1130" y="631" width="400" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="biYuwH2HLcxZLJn6zjDx-411" value="&lt;div&gt;1&lt;/div&gt;&lt;div&gt;更新客户信息&amp;amp;绑定客户与平台账号:失败&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="3bBSqwRNcASSSW01SM7P-40">
+        <mxCell id="biYuwH2HLcxZLJn6zjDx-411" value="&lt;div&gt;1&lt;/div&gt;&lt;div&gt;更新客户信息&amp;amp;绑定客户与平台账号:失败&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="3bBSqwRNcASSSW01SM7P-40" vertex="1">
           <mxGeometry x="1130" y="716" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="biYuwH2HLcxZLJn6zjDx-324" value="&lt;div&gt;58002&lt;/div&gt;&lt;div&gt;更新客户信息&amp;amp;绑定客户与平台账号:平台账号已绑定其他客户，无法绑定当前客户&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;brandCode、brandMemberId、&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;channel、socialId、channelId、subChannel、latestActiveAt&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="3bBSqwRNcASSSW01SM7P-40">
+        <mxCell id="biYuwH2HLcxZLJn6zjDx-324" value="&lt;div&gt;58002&lt;/div&gt;&lt;div&gt;更新客户信息&amp;amp;绑定客户与平台账号:平台账号已绑定其他客户，无法绑定当前客户&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;brandCode、brandMemberId、&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;channel、socialId、channelId、subChannel、latestActiveAt&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="3bBSqwRNcASSSW01SM7P-40" vertex="1">
           <mxGeometry x="720" y="631" width="400" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="-ouCptReuVdQldpVaHQp-0" value="&lt;h1&gt;该异常会处理为正常返回&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;verticalAlign=top;" vertex="1" parent="3bBSqwRNcASSSW01SM7P-40">
+          <mxGeometry x="710" y="82" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SD8zFqd4rU1VqLDHVZjI-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="3bBSqwRNcASSSW01SM7P-1" source="SD8zFqd4rU1VqLDHVZjI-42" edge="1">
           <mxGeometry relative="1" as="geometry">
