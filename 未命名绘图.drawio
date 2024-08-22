@@ -788,17 +788,6 @@
         <mxCell id="3bBSqwRNcASSSW01SM7P-42" value="注册客户&lt;br&gt;mobile、channelAccount&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 9pt&quot;&gt;、profile&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="3bBSqwRNcASSSW01SM7P-40" vertex="1">
           <mxGeometry x="280" y="420" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3bBSqwRNcASSSW01SM7P-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="3bBSqwRNcASSSW01SM7P-40" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="259" y="948.36" as="targetPoint" />
-            <mxPoint x="140" y="862.3600000000001" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3bBSqwRNcASSSW01SM7P-44" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="3bBSqwRNcASSSW01SM7P-43" vertex="1" connectable="0">
-          <mxGeometry x="-0.2101" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3bBSqwRNcASSSW01SM7P-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" parent="3bBSqwRNcASSSW01SM7P-40" source="3bBSqwRNcASSSW01SM7P-48" target="3bBSqwRNcASSSW01SM7P-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
