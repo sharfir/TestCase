@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="第 1 页" id="hqh7gR30OE5MKf-IJ9V2">
-    <mxGraphModel dx="2440" dy="1292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1728" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,23 +12,6 @@
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-269" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1270.5" y="2841" width="349.5" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="8Ivr_NgXvTZtsLet6FPW-289" value="疑问点" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FAD9D5;strokeColor=#0e0c0b;fontSize=12;strokeWidth=2;perimeterSpacing=1;" parent="1" vertex="1">
-          <mxGeometry x="25" y="3160" width="485" height="190" as="geometry">
-            <mxRectangle x="25" y="3160" width="80" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8Ivr_NgXvTZtsLet6FPW-290" value="从原有的业务流程图中无法分析出 ipad 录入客户信息，页面具体是如何操作的？只能在原有基础上进行补充，如有不一致，会议沟通后跳转" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="8Ivr_NgXvTZtsLet6FPW-289" vertex="1">
-          <mxGeometry y="30" width="485" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="8Ivr_NgXvTZtsLet6FPW-291" value="目前流程图的统一设定是，提交UCR接口的同时把最新客户信息存储到本地，这个先后顺序需要确认是否ok?" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="8Ivr_NgXvTZtsLet6FPW-289" vertex="1">
-          <mxGeometry y="70" width="485" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="8Ivr_NgXvTZtsLet6FPW-292" value="查询客户信息是否 在 本地数据库中存在，是根据什么条件去查询做的判断？" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="8Ivr_NgXvTZtsLet6FPW-289" vertex="1">
-          <mxGeometry y="110" width="485" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8Ivr_NgXvTZtsLet6FPW-293" value="ipad客户信息录入，该渠道会有唯一标识吗？唯一标识传递的是什么？&lt;div&gt;后端客户信息录入，该渠道标识传递与ipad的一致，还是会存在不同？且标识传递的是什么？&lt;/div&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="8Ivr_NgXvTZtsLet6FPW-289" vertex="1">
-          <mxGeometry y="140" width="485" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-238" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="2461" width="610" height="610" as="geometry" />
@@ -314,9 +297,6 @@
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-108" value="&lt;div&gt;&lt;span style=&quot;font-family: PingFangSC-Regular; font-size: 10pt;&quot;&gt;继续浏览⼩程序&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2693" y="785" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8Ivr_NgXvTZtsLet6FPW-117" value="存在一个问题：&lt;div&gt;在estore给的流程图中，有一个判断是否到注册页还是登录页，目前从ucr接口调用逻辑来看，没法去判断，还是说有加一步操作去判断&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" parent="1" vertex="1">
-          <mxGeometry x="40" y="720" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Ivr_NgXvTZtsLet6FPW-118" target="8Ivr_NgXvTZtsLet6FPW-121" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -658,38 +638,18 @@
           <mxGeometry x="1500" y="2944" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-305" value="疑问点" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FAD9D5;strokeColor=#0e0c0b;fontSize=12;strokeWidth=2;perimeterSpacing=1;" parent="1" vertex="1">
-          <mxGeometry x="41" y="800" width="485" height="210" as="geometry">
+          <mxGeometry x="41" y="800" width="485" height="160" as="geometry">
             <mxRectangle x="25" y="3160" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Ivr_NgXvTZtsLet6FPW-306" value="查询客户信息是否 在 本地数据库中存在，是根据什么条件去查询做的判断？" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="8Ivr_NgXvTZtsLet6FPW-305" vertex="1">
+        <mxCell id="8Ivr_NgXvTZtsLet6FPW-306" value="查询客户信息是否 在 本地数据库中存在，是根据什么条件去查询做的判断？目前定义是unionId." style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="8Ivr_NgXvTZtsLet6FPW-305" vertex="1">
           <mxGeometry y="30" width="485" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8Ivr_NgXvTZtsLet6FPW-307" value="目前流程图的统一设定是，提交UCR接口的同时把最新客户信息存储到本地，这个先后顺序需要确认是否ok?" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="8Ivr_NgXvTZtsLet6FPW-305" vertex="1">
+        <mxCell id="8Ivr_NgXvTZtsLet6FPW-307" value="目前流程图的统一设定是，提交UCR接口的同时把最新客户信息存储到本地，这个先后顺序需要确认是否ok? UCR不定义，由各端自行定义" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="8Ivr_NgXvTZtsLet6FPW-305" vertex="1">
           <mxGeometry y="70" width="485" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-309" value="本地数据库的客户数据是否 以UCR的数据为准？ 目前设定是以UCR数据为准" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="8Ivr_NgXvTZtsLet6FPW-305" vertex="1">
           <mxGeometry y="110" width="485" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="8Ivr_NgXvTZtsLet6FPW-316" value="在原有的业务流程，不是很清楚如何去区别 纯游客和线下渠道的不同场景跳转的页面不同，，对于UCR来说，只要根据平台账号查询不到客户信息，就要进行注册或者绑定渠道" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="8Ivr_NgXvTZtsLet6FPW-305" vertex="1">
-          <mxGeometry y="160" width="485" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="8Ivr_NgXvTZtsLet6FPW-317" value="疑问点" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FAD9D5;strokeColor=#0e0c0b;fontSize=12;strokeWidth=2;perimeterSpacing=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1970" width="485" height="210" as="geometry">
-            <mxRectangle x="25" y="3160" width="80" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8Ivr_NgXvTZtsLet6FPW-318" value="查询客户信息是否 在 本地数据库中存在，是根据什么条件去查询做的判断？" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="8Ivr_NgXvTZtsLet6FPW-317" vertex="1">
-          <mxGeometry y="30" width="485" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="8Ivr_NgXvTZtsLet6FPW-319" value="目前流程图的统一设定是，提交UCR接口的同时把最新客户信息存储到本地，这个先后顺序需要确认是否ok?" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="8Ivr_NgXvTZtsLet6FPW-317" vertex="1">
-          <mxGeometry y="70" width="485" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="8Ivr_NgXvTZtsLet6FPW-320" value="本地数据库的客户数据是否 以UCR的数据为准？ 目前设定是以UCR数据为准" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="8Ivr_NgXvTZtsLet6FPW-317" vertex="1">
-          <mxGeometry y="110" width="485" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="8Ivr_NgXvTZtsLet6FPW-321" value="在原有的业务流程，不是很清楚如何去区别 纯游客和线下渠道的不同场景跳转的页面不同，，对于UCR来说，只要根据平台账号查询不到客户信息，就要进行注册或者绑定渠道" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="8Ivr_NgXvTZtsLet6FPW-317" vertex="1">
-          <mxGeometry y="160" width="485" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-323" value="UCR-全新客户&lt;div&gt;&lt;br&gt;&lt;div&gt;本地-全新客户&lt;/div&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontColor=#FF0000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1451" y="960" width="150" height="80" as="geometry" />
