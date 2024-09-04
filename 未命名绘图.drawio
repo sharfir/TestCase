@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="第 1 页" id="hqh7gR30OE5MKf-IJ9V2">
-    <mxGraphModel dx="1803" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2593" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,7 +241,7 @@
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8Ivr_NgXvTZtsLet6FPW-67" target="8Ivr_NgXvTZtsLet6FPW-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8Ivr_NgXvTZtsLet6FPW-67" value="调用UCR“OPEN-API-10_注册综合场景接口（仅更新，根据手机号查询更新)”&amp;nbsp;&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#cc0000&quot;&gt;【本地数据库也需要更新存储】&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFBA85;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="8Ivr_NgXvTZtsLet6FPW-67" value="调用UCR“OPEN-API-10_注册综合场景接口&lt;div&gt;(根据手机号查询更新)&lt;div&gt;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#cc0000&quot;&gt;【本地数据库也需要更新存储】&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFBA85;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1762" y="570" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-72" value="&lt;div&gt;&lt;span style=&quot;font-family: PingFangSC-Regular; font-size: 10pt;&quot;&gt;以会员身份，正常浏览&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: PingFangSC-Regular; font-size: 10pt;&quot;&gt;⼩程序&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
