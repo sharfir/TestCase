@@ -732,11 +732,8 @@
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-323" value="全新客户" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1380" y="960" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Ivr_NgXvTZtsLet6FPW-324" value="两边都存在的&lt;div&gt;老客户&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1900" y="160" width="114" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8Ivr_NgXvTZtsLet6FPW-325" value="两边都存在的&lt;div&gt;老客户&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2420" y="170" width="114" height="60" as="geometry" />
+        <mxCell id="8Ivr_NgXvTZtsLet6FPW-324" value="UCR存在-老客户&lt;div&gt;&lt;br&gt;&lt;div&gt;本地存在-老客户，&lt;/div&gt;&lt;div&gt;把ucrk客户信息更新到本地&lt;/div&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1820" y="90" width="194" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-326" value="UCR存在-老客户&lt;br&gt;本地不存在-新客户" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1914" y="504" width="140" height="70" as="geometry" />
@@ -746,6 +743,9 @@
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-328" value="UCR存在--老客户,&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 更新老客户信息，&lt;div&gt;和新增平台账号&lt;div&gt;&lt;br&gt;本地不存在-新客户&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2292" y="860" width="218" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ivr_NgXvTZtsLet6FPW-329" value="UCR存在-老客户，&lt;div&gt;客户信息更新到 UCR&lt;div&gt;&lt;br&gt;&lt;div&gt;本地存在-老客户，&lt;/div&gt;&lt;div&gt;客户信息更新到本地&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontColor=#FF0000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2390" y="81" width="224" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
