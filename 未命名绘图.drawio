@@ -564,7 +564,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Ivr_NgXvTZtsLet6FPW-243" value="查看本地数据库中是否存在&lt;div&gt;(根据客户录入的手机号查询)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+        <mxCell id="8Ivr_NgXvTZtsLet6FPW-243" value="查看本地数据库中是否存在&lt;div&gt;&lt;br&gt;&lt;div&gt;(根据客户录入的手机号查询)&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="640" y="2710" width="130" height="160" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8Ivr_NgXvTZtsLet6FPW-240" target="8Ivr_NgXvTZtsLet6FPW-243" edge="1">
