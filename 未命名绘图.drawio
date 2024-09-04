@@ -690,7 +690,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-305" value="疑问点" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FAD9D5;strokeColor=#0e0c0b;fontSize=12;strokeWidth=2;perimeterSpacing=1;" vertex="1" parent="1">
-          <mxGeometry x="41" y="800" width="485" height="160" as="geometry">
+          <mxGeometry x="41" y="800" width="485" height="210" as="geometry">
             <mxRectangle x="25" y="3160" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -702,6 +702,9 @@
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-309" value="本地数据库的客户数据是否 以UCR的数据为准？ 目前设定是以UCR数据为准" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="8Ivr_NgXvTZtsLet6FPW-305">
           <mxGeometry y="110" width="485" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ivr_NgXvTZtsLet6FPW-316" value="在原有的业务流程，不是很清楚如何去区别 纯游客和线下渠道的不同场景跳转的页面不同，，对于UCR来说，只要根据平台账号查询不到客户信息，就要进行注册或者绑定渠道" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="8Ivr_NgXvTZtsLet6FPW-305">
+          <mxGeometry y="160" width="485" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
