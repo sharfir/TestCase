@@ -1,14 +1,31 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.10">
   <diagram name="第 1 页" id="hqh7gR30OE5MKf-IJ9V2">
-    <mxGraphModel dx="3457" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2183" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-269" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1270.5" y="2800" width="319" height="160" as="geometry" />
+          <mxGeometry x="1270.5" y="2841" width="319" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ivr_NgXvTZtsLet6FPW-289" value="疑问点" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FAD9D5;strokeColor=#0e0c0b;fontSize=12;strokeWidth=2;perimeterSpacing=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="3160" width="485" height="190" as="geometry">
+            <mxRectangle x="25" y="3160" width="80" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8Ivr_NgXvTZtsLet6FPW-290" value="从原有的业务流程图中无法分析出 ipad 录入客户信息，页面具体是如何操作的？只能在原有基础上进行补充，如有不一致，会议沟通后跳转" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="8Ivr_NgXvTZtsLet6FPW-289">
+          <mxGeometry y="30" width="485" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ivr_NgXvTZtsLet6FPW-291" value="目前流程图的统一设定是，提交UCR接口的同时把最新客户信息存储到本地，这个先后顺序需要确认是否ok?" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="8Ivr_NgXvTZtsLet6FPW-289">
+          <mxGeometry y="70" width="485" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ivr_NgXvTZtsLet6FPW-292" value="查询客户信息是否 在 本地数据库中存在，是根据什么条件去查询做的判断？" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="8Ivr_NgXvTZtsLet6FPW-289">
+          <mxGeometry y="110" width="485" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8Ivr_NgXvTZtsLet6FPW-293" value="ipad客户信息录入，该渠道会有唯一标识吗？唯一标识传递的是什么？&lt;div&gt;后端客户信息录入，该渠道标识传递与ipad的一致，还是会存在不同？且标识传递的是什么？&lt;/div&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="8Ivr_NgXvTZtsLet6FPW-289">
+          <mxGeometry y="140" width="485" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-238" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="2420" width="610" height="610" as="geometry" />
+          <mxGeometry x="200" y="2461" width="610" height="610" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-232" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="2670" y="1700" width="240" height="142" as="geometry" />
@@ -551,16 +568,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-236" value="Zenith ZCard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="2720" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="2761" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-239" value="&lt;font face=&quot;PingFangSC-Regular&quot;&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;ipad 客户信息录入&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="2510" width="120" height="60" as="geometry" />
+          <mxGeometry x="385" y="2551" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-240" value="&lt;font face=&quot;PingFangSC-Regular&quot;&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;后端客户信息录入&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="2720" width="120" height="60" as="geometry" />
+          <mxGeometry x="385" y="2761" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-241" value="&lt;font face=&quot;PingFangSC-Regular&quot;&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;后端客户信息查询&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="2910" width="120" height="60" as="geometry" />
+          <mxGeometry x="385" y="2951" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Ivr_NgXvTZtsLet6FPW-243" target="8Ivr_NgXvTZtsLet6FPW-250">
           <mxGeometry relative="1" as="geometry" />
@@ -579,7 +596,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-243" value="查看本地数据库中是否存在" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="679" y="2704" width="60" height="92" as="geometry" />
+          <mxGeometry x="679" y="2745" width="60" height="92" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8Ivr_NgXvTZtsLet6FPW-240" target="8Ivr_NgXvTZtsLet6FPW-243">
           <mxGeometry relative="1" as="geometry" />
@@ -602,22 +619,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-250" value="判断客户在本地数据库中是否存在&lt;div&gt;brandmemberId&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="993" y="2320" width="170" height="120" as="geometry" />
+          <mxGeometry x="993" y="2361" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Ivr_NgXvTZtsLet6FPW-253" target="8Ivr_NgXvTZtsLet6FPW-263">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-253" value="调用UCR&quot;OPEN-API-03识别客户接口（根据手机号）查询&quot;，接口会返回手机号和brandmemberId" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="973" y="2715" width="210" height="70" as="geometry" />
+          <mxGeometry x="973" y="2756" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-261" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8Ivr_NgXvTZtsLet6FPW-258" target="8Ivr_NgXvTZtsLet6FPW-260">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-258" value="根据“识别客户”接口查询返回的手机号&amp;nbsp;&lt;br&gt;调用UCR&quot;OPEN-API-05查看客户详细信息接口（根据手机号查询)&quot;，接口返回客户详细信息&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#cc0000&quot;&gt;同时保存至本地数据库&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="2337.5" width="260" height="85" as="geometry" />
+          <mxGeometry x="1360" y="2378.5" width="260" height="85" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-260" value="end" style="whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="2350" width="120" height="60" as="geometry" />
+          <mxGeometry x="1770" y="2391" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-267" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Ivr_NgXvTZtsLet6FPW-263" target="8Ivr_NgXvTZtsLet6FPW-266">
           <mxGeometry relative="1" as="geometry" />
@@ -636,10 +653,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-263" value="是否查询到客户信息" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1008" y="2840" width="140" height="80" as="geometry" />
+          <mxGeometry x="1008" y="2881" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8Ivr_NgXvTZtsLet6FPW-266" value="调用UCR“OPEN-API-10_注册综合场景接口”&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#cc0000&quot;&gt;同时保存至本地数据库&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="978" y="2970" width="200" height="60" as="geometry" />
+        <mxCell id="8Ivr_NgXvTZtsLet6FPW-266" value="调用UCR“OPEN-API-10_注册综合场景接口”&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#cc0000&quot;&gt;同时保存至本地数据库&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFBA85;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="978" y="3011" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Ivr_NgXvTZtsLet6FPW-270" target="8Ivr_NgXvTZtsLet6FPW-275">
           <mxGeometry relative="1" as="geometry" />
@@ -648,34 +665,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-270" value="提示客户，手机号已存在，是否更新个人信息，选择“保留”或者“更新”" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="2850" width="120" height="60" as="geometry" />
+          <mxGeometry x="1290" y="2891" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Ivr_NgXvTZtsLet6FPW-272" target="8Ivr_NgXvTZtsLet6FPW-274">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-272" value="调用UCR“OPEN-API-10_注册综合场景接口（仅绑定，根据手机号查询)”&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#cc0000&quot;&gt;同时保存至本地数据库&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFBA85;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="2810" width="260" height="60" as="geometry" />
+          <mxGeometry x="1654" y="2851" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8Ivr_NgXvTZtsLet6FPW-273" target="8Ivr_NgXvTZtsLet6FPW-274">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-273" value="调用UCR“OPEN-API-10_注册综合场景接口（更新以及绑定，根据手机号查询)”&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#cc0000&quot;&gt;同时保存至本地数据库&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFBA85;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="2893" width="260" height="60" as="geometry" />
+          <mxGeometry x="1654" y="2934" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-274" value="end" style="whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1999" y="2853" width="120" height="60" as="geometry" />
+          <mxGeometry x="1999" y="2894" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Ivr_NgXvTZtsLet6FPW-275" target="8Ivr_NgXvTZtsLet6FPW-272">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-275" value="&lt;font face=&quot;PingFangSC-Regular&quot;&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;保留&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="2820" width="50" height="40" as="geometry" />
+          <mxGeometry x="1500" y="2861" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Ivr_NgXvTZtsLet6FPW-277" target="8Ivr_NgXvTZtsLet6FPW-273">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8Ivr_NgXvTZtsLet6FPW-277" value="&lt;font face=&quot;PingFangSC-Regular&quot;&gt;&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;更新&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="2903" width="50" height="40" as="geometry" />
+          <mxGeometry x="1500" y="2944" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
